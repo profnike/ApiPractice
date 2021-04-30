@@ -50,6 +50,7 @@ p{
     padding: 5px;
     max-width: 100px;
     min-width:100px;
+    overflow-x:scroll;
 }
 .butn-style:hover{
 background-color:rgb(95, 95, 223);
